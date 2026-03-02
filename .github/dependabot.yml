@@ -4,7 +4,7 @@ updates:
     schedule:
       interval: weekly
       day: monday
-      time: "14:27"
+      time: "14:28"
       timezone: America/Denver
     directories:
       - "/"
