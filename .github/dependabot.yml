@@ -2,9 +2,7 @@ version: 2
 updates:
   - package-ecosystem: npm
     schedule:
-      interval: weekly
-      day: monday
-      time: "14:35"
-      timezone: America/Denver
-    directories:
-      - "/"
+      interval: "daily"
+      time: "15:10"
+      timezone: "America/Denver"
+    directory: "/"
