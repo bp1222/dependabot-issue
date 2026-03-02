@@ -1,6 +1,11 @@
 version: 2
 updates:
   - package-ecosystem: npm
+    schedule:
+      interval: weekly
+      day: monday
+      time: "14:18"
+      timezone: America/Denver
     directories:
       - "/"
     groups:
