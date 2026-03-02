@@ -9,7 +9,7 @@ permissions:
 jobs:
   run-ci:
     name: Run Our CI
-    runs-on: 'ubuntu-latest'
+    runs-on: ubuntu-latest
     steps:
       - uses: pnpm/action-setup@v4.2.0
         with:
