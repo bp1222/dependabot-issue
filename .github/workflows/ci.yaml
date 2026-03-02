@@ -26,6 +26,3 @@ jobs:
 
       - shell: bash
         run: pnpm install --frozen-lockfile
-
-      - shell: bash
-        run: pnpm build
