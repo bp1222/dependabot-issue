@@ -6,3 +6,7 @@ updates:
       time: "15:40"
       timezone: "America/Denver"
     directory: "/"
+    groups:
+      npm:
+        patterns:
+          - "*"
